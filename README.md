@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## About Project
+
+In this Spa application you can see the images and can filter among those images according to the button above
+
+
 ## Available Scripts
 
 In the project directory, you can run:
